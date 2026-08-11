@@ -200,5 +200,3 @@ MIT (or your preferred license)
 
 
 ---
-
-Now generating a clean banner image for your repo 👇
